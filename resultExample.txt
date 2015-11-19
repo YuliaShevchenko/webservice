@@ -1,0 +1,27 @@
+Total count: 1000
+Passed: 977
+Failed: 23
+
+expected:<hello 81[]> but was:<hello 81[2]>
+expected:<hello 82[]> but was:<hello 82[6]>
+expected:<hello 83[]> but was:<hello 83[5]>
+expected:<hello 84[]> but was:<hello 84[0]>
+expected:<hello 85[]> but was:<hello 85[9]>
+expected:<hello 86[]> but was:<hello 86[2]>
+expected:<hello 87[]> but was:<hello 87[5]>
+expected:<hello 88[]> but was:<hello 88[9]>
+expected:<hello 89[]> but was:<hello 89[1]>
+expected:<hello 90[]> but was:<hello 90[0]>
+expected:<hello 91[]> but was:<hello 91[3]>
+expected:<hello 92[]> but was:<hello 92[6]>
+expected:<hello 93[]> but was:<hello 93[3]>
+expected:<hello 94[]> but was:<hello 94[5]>
+expected:<hello 95[]> but was:<hello 95[2]>
+expected:<hello 96[]> but was:<hello 96[1]>
+expected:<hello 97[]> but was:<hello 97[1]>
+expected:<hello 98[]> but was:<hello 98[7]>
+expected:<hello 99[]> but was:<hello 99[8]>
+expected:<hell[o] 235> but was:<hell[] 235>
+expected:<hell[o] 555> but was:<hell[] 555>
+expected:<hello [998]> but was:<hello []>
+expected:<hello 999[]> but was:<hello 999[1]>
